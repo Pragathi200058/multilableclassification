@@ -3,7 +3,7 @@ Ravi is a student who is new to Machine learning.He want to do a machine learnin
 found out an interesting problem. He found out some questions and each question has id,title and
 body.
 
-
+# PROBLEM STATEMENT
 By seeing these,he wants to predict the tag for that question.
 Data Field Explanation:
 Id - Unique identifier for each question
@@ -46,10 +46,10 @@ Task - 3 : Apply suitable model
 ➢ Performance Metrics is F1-Score
 
 
-##CSV FILE
+# CSV FILE
 For dataset refer-https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data
 
-##CONDITIONS SATISFIED
+# CONDITIONS SATISFIED
 Task - 1 : Data Preprocessing
 ➢ Remove Duplicate entries
 ➢ Separate out code-snippets from Body
