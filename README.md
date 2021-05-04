@@ -44,3 +44,31 @@ Task - 2 : Analysis of Tags
 Task - 3 : Apply suitable model
 ➢ Split the data into test and train(80:20)
 ➢ Performance Metrics is F1-Score
+
+
+##CSV FILE
+For dataset refer-https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data
+
+##CONDITIONS SATISFIED
+Task - 1 : Data Preprocessing
+➢ Remove Duplicate entries
+➢ Separate out code-snippets from Body
+➢ Remove stop words (Except 'C')
+➢ Remove HTML Tags
+➢ Convert all the characters into small letters
+➢ Use SnowballStemmer to stem the words
+
+Task - 2 : Analysis of Tags
+➢ Total number of unique tags
+➢ Maximum number of tags per question
+➢ Minimum number of tags per question
+➢ Avg. number of tags per question
+➢ Most Frequent Tags
+
+Task - 3 : Apply suitable model
+➢ Split the data into test and train(80:20)
+➢ Performance Metrics is F1-Score
+
+
+
+
